@@ -1,0 +1,71 @@
+body > * {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.card-title,
+.card-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 14px 1px 11px 16px;
+    margin: 0;
+}
+
+.nombre {
+    font-size: 16px;
+    padding: 0px 1px 0px 16px;
+
+}
+
+.direccion {
+    font-size: 13px;
+    padding: 0px 1px 0px 16px;
+
+}
+
+.fa-solid.fa-location-dot {
+    font-size: 9px;
+    padding-right: 4px;
+    padding-bottom: 2px;
+
+}
+
+p {
+    padding: 0;
+    margin: 0;
+}
+
+.precio{
+    font-size: 16px;
+    margin: 10px 16px 0 16px;
+    padding: 19px 7px 15px 0;
+ }
+
+ .oferta{
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 5px;  
+ } 
+
+ form {
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+    font-weight: 500;
+     }
+
+form .btn-light {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    width: 113px;
+    height: 40px;
+}
+
+.form-control::placeholder {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: rgb(112, 112, 112);
+    opacity: 1;
+    
+}
